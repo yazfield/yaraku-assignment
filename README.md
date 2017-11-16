@@ -77,3 +77,7 @@ The application accessible on http://localhost:8080
 - I haven't added user accounts because it wasn't specified in the requirements, so lists are open for everybody.
 
 - I had put business logic inside the controllers since all the methods are very small, there's no complex logic so this wouldn't hurt.
+
+## Final thoughts
+Please feel free to ask me any questions if you need some clarifications.
+I also welcome all feedback, so please provide me with some.
