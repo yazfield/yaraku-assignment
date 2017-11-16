@@ -1,0 +1,18 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~open-iconic/font/css/open-iconic-bootstrap.min.css";
+@import "./layout.scss";
+@import "./book-card.scss";
+
+.breadcrumb {
+  background: none;
+}
+
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+
+th span {
+  font-size: 12px;
+  padding-left: 4px;
+}

@@ -1,0 +1,22 @@
+a.card-wrapper {
+  display: block;
+  text-decoration: none;
+  color: #777;
+}
+
+.card__book-list {
+  a:hover {
+    background-color: #DDD;
+  }
+  h4 {
+    font-size: 24px;
+    text-overflow: ellipsis; 
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    height: 24px * 1.2 * 2;
+  }
+}
